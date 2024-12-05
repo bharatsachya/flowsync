@@ -1,3 +1,3 @@
 
-export const BACKEND_URL = "http://localhost:3003"
-export const HOOKS_URL = "http://localhost:3002"
+export const BACKEND_URL = "https://flowsync-backend.onrender.com/"
+export const HOOKS_URL = "https://flowsync-hooks.onrender.com"
